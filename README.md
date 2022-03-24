@@ -1,2 +1,5 @@
 # COVIDCheckpoint
-ECE 110H Project
+
+Due to the Covid-19 pandemic, many measures were taken into play to prevent the spread of the virus. One measure put into place was setting up a checkpoint where individuals show their Safer-Illinois app to a worker sitting at the front desk to ensure that the individual was Covid-free. While this method worked, we believe that it is quite inefficient as one person must constantly monitor students and instructors who come in an and out of the building. As a result, we believed that there can be a more efficient method that can be automated. Using a variety of different parts, we attempted to develop an automated COVID-19 checkpoint that can scan the QR code on the Safer Illinois app, detect if an individual is wearing a mask, and determined the individuals body temperature. The goals of this project were to create functioning parts for each division of functionality including but not limited to hardware, software, and electronics. 
+
+Report link: https://uillinoisedu-my.sharepoint.com/:w:/g/personal/vkowdle2_illinois_edu/EbjshacPHKpOuoAPzxq0MtIB1I_mF21w02I6K9OD2bUPyg?e=lsjC11
